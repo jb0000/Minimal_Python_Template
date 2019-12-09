@@ -1,13 +1,16 @@
 ## Minimal Python Project Template with Tests
 
 Go to project folder:
-
-```cd project```
+```
+cd project
+```
 
 run main:
-
-```python -m package.Main```
+```
+python -m package.Main
+```
 
 run unittests:
-
-```python -m unittest```
+```
+python -m unittest
+```
